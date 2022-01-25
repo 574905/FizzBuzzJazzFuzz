@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Dokumenter\\Epinova\\FizzBuzzJazzFuzz\\FizzBuzzJazzFuzz.csproj",
-      "projectName": "FizzBuzzJazzFuzz",
-      "projectPath": "C:\\Users\\pc\\OneDrive\\Dokumenter\\Epinova\\FizzBuzzJazzFuzz\\FizzBuzzJazzFuzz.csproj",
+      "projectUniqueName": "C:\\Users\\pc\\OneDrive\\Dokumenter\\Epinova\\FizzBuzzJazzFuzz\\FizzBuzzGame.csproj",
+      "projectName": "FizzBuzzGame",
+      "projectPath": "C:\\Users\\pc\\OneDrive\\Dokumenter\\Epinova\\FizzBuzzJazzFuzz\\FizzBuzzGame.csproj",
       "packagesPath": "C:\\Users\\pc\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\pc\\OneDrive\\Dokumenter\\Epinova\\FizzBuzzJazzFuzz\\obj\\",
       "projectStyle": "PackageReference",
