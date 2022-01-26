@@ -13,3 +13,4 @@ C:\Users\pc\OneDrive\Dokumenter\Epinova\FizzBuzzJazzFuzz\obj\Debug\net5.0\FizzBu
 C:\Users\pc\OneDrive\Dokumenter\Epinova\FizzBuzzJazzFuzz\obj\Debug\net5.0\ref\FizzBuzzGame.dll
 C:\Users\pc\OneDrive\Dokumenter\Epinova\FizzBuzzJazzFuzz\obj\Debug\net5.0\FizzBuzzGame.pdb
 C:\Users\pc\OneDrive\Dokumenter\Epinova\FizzBuzzJazzFuzz\obj\Debug\net5.0\FizzBuzzGame.genruntimeconfig.cache
+C:\Users\pc\OneDrive\Dokumenter\Epinova\FizzBuzzJazzFuzz\obj\Debug\net5.0\FizzBuzzGame.csproj.AssemblyReference.cache

@@ -2,9 +2,9 @@
 
 namespace FizzBuzzGame
 {
-    public class FizzBuzz
+    class FizzBuzz : IGameInterface
     {
-        public static void Run(int limit)
+        public void Run(int limit)
         {
             for (int i = 1; i <= limit; i++)
             {
