@@ -8,7 +8,7 @@ namespace FizzBuzzGame
 {
     class FizzBuzzJazzFuzz : IGameInterface
     {
-        public void Run(int limit)
+         public void Run(int limit)
         {
             FizzBuzz fb = new FizzBuzz();
             fb.Run(limit);
