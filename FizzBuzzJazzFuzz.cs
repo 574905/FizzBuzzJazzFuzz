@@ -6,37 +6,12 @@ using System.Threading.Tasks;
 
 namespace FizzBuzzGame
 {
-    class FizzBuzzJazzFuzz : IGameInterface
+    class FizzBuzzJazzFuzz : GameRules, IGameInterface
     {
-         public void Run(int limit)
+        public void Run()
         {
-            FizzBuzz fb = new FizzBuzz();
-            fb.Run(limit);
-
-            for (int i = limit; i >= 1; i--)
-            {
-                bool isJazz = i % 9 == 0;
-                bool isFuzz = i % 4 == 0;
-
-                if (isJazz && isFuzz)
-                {
-                    Console.WriteLine("JazzFuzz");
-                }
-                else
-                if (isJazz)
-                {
-                    Console.WriteLine("Jazz");
-                }
-                else
-                if (isFuzz)
-                {
-                    Console.WriteLine("Fuzz");
-                }
-                else
-                {
-                    Console.WriteLine(i);
-                }
-            }
+            Write(100, "Fizz", 3, "Buzz", 5, true);
+            Write(100, "Jazz", 9, "Fuzz", 4, false);
         }
     }
 }

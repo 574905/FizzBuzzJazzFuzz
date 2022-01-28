@@ -8,6 +8,6 @@ namespace FizzBuzzGame
 {
     interface IGameInterface
     {
-        void Run(int limit);
+        void Run();
     }
 }
