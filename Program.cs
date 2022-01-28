@@ -10,7 +10,8 @@ namespace FizzBuzzGame
     {
         static void Main(string[] args)
         {
-            FizzBuzz.Run(100);
+            FizzBuzzJazzFuzz fbjf = new FizzBuzzJazzFuzz();
+            fbjf.Run();
         }
     }
 }
